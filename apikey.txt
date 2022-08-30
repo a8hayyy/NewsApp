@@ -1,0 +1,2 @@
+key-c91dab34418f407a82c4b210e790e512
+link-https://newsapi.org/v2/top-headlines?country=us&apiKey=c91dab34418f407a82c4b210e790e512
